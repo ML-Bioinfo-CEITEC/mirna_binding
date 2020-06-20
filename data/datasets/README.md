@@ -1,1 +1,1 @@
-# store datasets used to train and test models
+# store datasets used to test the models
