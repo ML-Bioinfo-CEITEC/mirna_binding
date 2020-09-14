@@ -1,6 +1,6 @@
 # Iterative Deep Neural Network Training models miRNA Binding
 
-Deep Learning (DL), a class of supervised learning algorithms, emerges as a new tool for deciphering functional genomics. MicroRNA regulates gene expressions by binding target miRNAs and leading to their degradation. Several ClipSeq datasets are publically available for the identification of microRNA-target interactions, e.g. ENCORI. However, microRNA binding rules are only partially understood. 
+Deep Learning (DL), a class of supervised learning algorithms, emerges as a new tool for deciphering functional genomics. MicroRNA regulates gene expressions by binding target microRNAs and leading to their degradation. Several ClipSeq datasets are publically available for the identification of microRNA-target interactions, e.g. ENCORI. However, microRNA binding rules are only partially understood. 
 
 Here we rendered microRNA-target interactions from only nucleotide sequence information presented as a 2-dimensional matrix, which were used to train a DL binary classifier. Next, we applied techniques for model interpretation, showing high similarity with the current state of the art about microRNA binding rules.
 
